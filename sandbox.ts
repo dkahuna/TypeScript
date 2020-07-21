@@ -1,10 +1,9 @@
+// explicit types
 let character: string;
+let age: number;
+let isLoggedIn: boolean;
 
 character = "Link";
 console.log(character);
 
-character = "Zelda";
 
-console.log(character);
-
-console.log("Hello World");

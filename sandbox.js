@@ -1,6 +1,6 @@
+// explicit types
 var character;
+var age;
+var isLoggedIn;
 character = "Link";
 console.log(character);
-character = "Zelda";
-console.log(character);
-console.log("Hello World");
